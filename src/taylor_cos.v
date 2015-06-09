@@ -1,7 +1,6 @@
 //*****************************************************************//
 // Top Level for calculating cos (theta) using taylor series
 // Created By - Vrishbhan Singh Sisodia
-// Student ID - 009300980
 // San Jose State University
 // EE 278
 //*****************************************************************//
